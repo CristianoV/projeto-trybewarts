@@ -1,0 +1,103 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: gainsboro;
+}
+
+.trybewarts-login {
+  display: flex;
+  gap: 5px;
+  margin-right: 15px;
+}
+
+.header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  align-items: center;
+  justify-content: space-between;
+}
+
+.trybewarts-header-logo {
+  height: 80px;
+}
+
+main {
+  display: flex;
+  width: 675px;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  height: 500px;
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+#nomeCompleto {
+  display: flex;
+  gap: 5px;
+}
+
+#localizacao {
+  display: flex;
+  gap: 5px;
+}
+
+#familia-conteiner {
+  display: flex;
+  flex-direction: column;
+}
+
+#conteiner-to-learn {
+  display: flex;
+}
+
+#conteiner-geral {
+  display: flex;
+}
+
+#conteudo-conteiner {
+  margin-left: 50px;
+}
+
+#notas {
+  display: flex;
+}
+
+#rodape {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 56px;
+  color: white;
+}
+
+.borda {
+  border-radius: 5px;
+  border-style: none;
+  background-color: white;
+  width: 100%;
+}
+
+#house {
+  display: flex;
+
+}
+
+#titulo {
+  display: flex;
+  justify-content: center;
+}
+
+#comentario {
+  display: flex;
+  justify-content: space-between;
+}
