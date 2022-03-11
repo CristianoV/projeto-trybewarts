@@ -76,7 +76,7 @@ main {
   justify-content: center;
   align-items: center;
   background-color: black;
-  height: 56px;
+  //height: 56px;//
   color: white;
   width: 100%;
 }
